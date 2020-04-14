@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Tic Tac Toc</string>
+    <string name="game_status_text">Joueur X à vous de jouer</string>
+    <string name="game_play_text">Rejouez !</string>
+</resources>
